@@ -24,7 +24,7 @@ A modern, responsive web application for generating custom QR codes with real-ti
 
 [Try the QR Code Generator Online](https://68a9f2bde8bdc090346b1d98--qrcodemaker221.netlify.app/)
 
-**Live URL**: `https://qrgenerator122.netlify.app`
+**Live URL**: `https://68a9f2bde8bdc090346b1d98--qrcodemaker221.netlify.app/`
 
 ## 📁 Project Structure
 
